@@ -1,4 +1,4 @@
-![hippo](https://tenor.com/es/view/cool-anime-bw-hyouka-gif-16641764509006909319)
+<img width="498" height="280" alt="hyouka-oreki" src="https://github.com/user-attachments/assets/7b0155d6-5ec6-47c6-8320-7b4c5d3834f9" />
 
 
 # Hello World
